@@ -1,0 +1,76 @@
+body{
+  background-image: url(images/XKGmUD6.jpg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+  background-size: cover;
+
+  font-family: 'Abel', sans-serif;
+  font-size: 20px;
+  color: #FAF6EA;
+}
+
+h1, h2{
+  font-family: "impact";
+  font-weight: normal;
+  text-transform: uppercase;
+  margin: 0;
+  padding:0px;
+  text-align: center;
+}
+
+h2{
+  text-align:center;
+}
+
+#header{
+  width:1000px;
+  margin:200px auto;
+}
+
+#logo h1{
+  line-height:150px;
+  letter-spacing: 5px;
+  font-size: 9em;
+}
+
+#threecolumns {
+  overflow: hidden;
+  width: 1000px;
+  margin:0px auto;
+  padding: 30px 30px;
+  background: rgba(255,255,255,.5);
+  color:#3B3B3B;
+}
+
+#threecolumns h2{
+  padding: 0px 9px 20px 0px;
+  font-size:35px;
+}
+
+#threecolumns #column1{
+  float: left;
+  width: 300px;
+  margin-right: 50px;
+}
+
+#threecolumns #column2{
+  float: left;
+  width: 300px;
+}
+#threecolumns #column3{
+  float: right;
+  width: 300px;
+}
+#threecolumns h2{
+  color:;
+}
+#threecolumns p{
+  color:;
+}
+footer{
+  background: rgba(0,0,0,.5);
+  color: white;
+  text-align: center;
+}
